@@ -1,6 +1,6 @@
 # Fikri Bamahry
 
-![Profile photo](Fikri Photo.jpeg)
+![Profile photo](Fikri_Photo.jpeg)
 
 I am a GNSS researcher at the Royal Observatory of Belgium.
 
