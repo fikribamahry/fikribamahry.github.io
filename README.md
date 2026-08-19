@@ -1,6 +1,6 @@
 # Fikri Bamahry
 
-![Profile photo](/assets/img/profile.jpg)
+![Profile photo](profile.jpg)
 
 I am a GNSS researcher at the Royal Observatory of Belgium.
 
@@ -20,4 +20,4 @@ I enjoy working with Space Geodetic Techniques data in general, developing data-
 
 Outside research, I enjoy traveling with my wife, photography, and baku terek.
 
-[LinkedIn](https://www.linkedin.com/in/fikri)
+[LinkedIn](https://www.linkedin.com/in/fikribamahry)
