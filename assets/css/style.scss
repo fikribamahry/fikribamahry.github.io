@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 25px;
+  margin-bottom: 30px;
+}
+
+.intro img {
+  width: 150px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.intro-text {
+  flex: 1;
+}
