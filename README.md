@@ -1,5 +1,5 @@
 <div class="intro">
-  <img src="Fikri_Photo.jpeg" alt="Fikri Bamahry" width="150">
+  <img src="Fikri_Photo.jpeg" alt="Fikri Bamahry" width="200">
 
   <div class="intro-text">
     <p>
