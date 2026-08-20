@@ -1,5 +1,5 @@
 <div class="intro">
-  <img src="Fikri_Photo.jpeg" alt="Fikri Bamahry" width="150">>
+  <img src="Fikri_Photo.jpeg" alt="Fikri Bamahry" width="150">
 
   <div class="intro-text">
     <p>
@@ -19,6 +19,7 @@
   </div>
 </div>
 
+
 ## Research Interests
 - Geodesy
 - GNSS
@@ -26,6 +27,7 @@
 - GNSS Interference
 - GNSS Data Quality
 - Data Science
+
 
 ## About Me
 Outside research, I enjoy traveling with my wife, photography, and baku terek.
